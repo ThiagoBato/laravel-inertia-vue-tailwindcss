@@ -15,6 +15,8 @@
     </a>
 </p>
 
+# Laravel + Inertia + Vue + Tailwind without starter kit
+
 ## Install the dependencies:
 
     npm i
